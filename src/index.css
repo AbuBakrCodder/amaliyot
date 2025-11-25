@@ -1,7 +1,11 @@
 @import "tailwindcss";
+/* @import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+* {
+    font-family: "Bad Script", cursive;
+} */
 
-.active{
+.active {
     font-weight: bold;
     text-decoration: underline;
-    color:  rgb(134, 37, 37);
+    color: rgb(134, 37, 37);
 }
